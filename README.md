@@ -1,2 +1,2 @@
 # mpTest
-__It is basically a python script, which dertermines the execution time for different machine. It uses Prime Number finding technique and timer library form python.__
+_It is basically a python script, which dertermines the execution time for different machine. It uses Prime Number finding technique and timer library form python._
