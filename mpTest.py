@@ -47,5 +47,6 @@ elapsed=datetime.datetime.now()-startTime
 print " Found %d primes in %s" %(count,elapsed)
 print ""
 
+#These test score is under Raspberry PI 3
 #Found 5132 primes in 0:01:08.018176 with 700Mhz
 #Found 5132 primes in 0:01:34.582222 with 800Mhz
